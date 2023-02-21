@@ -5,7 +5,7 @@ Username dicoding: kuroba_izzul
 
 | | Deskripsi |
 | ----------- | ----------- |
-| Dataset | [Spam or Not Spam Dataset]([https://www.kaggle.com/](https://www.kaggle.com/datasets/ozlerhakan/spam-or-not-spam-dataset)) |
+| Dataset | [Spam or Not Spam Dataset](https://www.kaggle.com/datasets/ozlerhakan/spam-or-not-spam-dataset) |
 | Masalah | Deskripsi masalah yang di angkat |
 | Solusi machine learning | Deskripsi solusi machine learning yang akan dibuat |
 | Metode pengolahan | Deskripsi metode pengolahan data yang digunakan |
