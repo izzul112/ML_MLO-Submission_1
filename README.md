@@ -1,13 +1,13 @@
-# Submission 1: Klasifikasi Email spam atau bukan spam
+# Submission 1: Klasifikasi tweet positif atau negatif
 Nama: Habib Azizul Haq
 
 Username dicoding: kuroba_izzul
 
 | | Deskripsi |
 | ----------- | ----------- |
-| Dataset | [Spam or Not Spam Dataset](https://www.kaggle.com/datasets/ozlerhakan/spam-or-not-spam-dataset) |
-| Masalah | Mendapat sebuah email dari seorang kenalan, membacanya dan kemudian membalasnya adalah hal yang cukup menyenangkan. Namun terkadang kita juga mendapat email yang berisi sesuatu yang tidak kita pahami atau mengerti, nah itulah yang sering kita sebut dengan email spam. Tentunya kita semua tidak ingin email spam itu muncul di beranda email kita, karena selain mengganggu dan tak sedap di pandang mata. Email spam juga terkadang berisi link-link yang berbahaya. Tentunya kita tidak ingin mengalami salah membuka email, terus juga secara tidak sengaja menekan link email tersebut, bisa-bisa semua data pribadi kita diambil atau kita secara tidak sadar telah memberikan akses kepada orang yang tidak bertanggung jawab kepada gawai kita. |
-| Solusi machine learning | Tenang tidak perlu panik kita akan membuat sebuah model machine learning untuk menjawab permasalahan tersebut. Kita akan membuat model untuk medeteksi apakah sebuah email itu spam atau bukan. |
+| Dataset | [Sentiment Analysis of Tweet Reviews](https://www.kaggle.com/datasets/shibbirahmad22/sentiment-analysis-of-tweet-reviews?select=train.csv) |
+| Masalah | Dizaman sekarang kita sering menghabiskan waktu di media sosial, baik sekedar melihat-lihat saja atau memantau idola kita di media sosialnya. Tak jarang saat kita sedang berselancar di media sosial kita menemukan tweet yang dirasa kurang sedap atau terlalu vulgar. Tentu kita akan merasa risih dan terganggu oleh hal tersebut. |
+| Solusi machine learning | Untuk mengatasi masalah tersebut kita bisa membuat sebuah model machine learning untuk mengklasifikasikan sebuah tweet, apakah tweet itu bermuatan posotif atau justru negatif. |
 | Metode pengolahan | Deskripsi metode pengolahan data yang digunakan |
 | Arsitektur model | Deskripsi arsitektur model yang diguanakan |
 | Metrik evaluasi | Deksripsi metrik yang digunakan untuk mengevaluasi performa model |
